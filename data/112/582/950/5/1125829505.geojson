@@ -1,0 +1,126 @@
+{
+  "id": 1125829505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.73858,54.07405,-4.73858,54.07405",
+    "geom:latitude":54.07405,
+    "geom:longitude":-4.73858,
+    "gn:gn_country":"IM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IM",
+    "lbl:latitude":54.07405,
+    "lbl:longitude":-4.73858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Port St Mary"
+    ],
+    "name:dut_x_preferred":[
+        "Port St Mary"
+    ],
+    "name:eng_x_preferred":[
+        "Port St Mary"
+    ],
+    "name:fre_x_preferred":[
+        "Port Saint Mary"
+    ],
+    "name:gla_x_preferred":[
+        "Purt le Moirrey"
+    ],
+    "name:glv_x_preferred":[
+        "Purt le Moirrey"
+    ],
+    "name:ita_x_preferred":[
+        "Port Saint Mary"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30fb\u30bb\u30f3\u30c8\u30fb\u30e1\u30a2\u30ea\u30fc"
+    ],
+    "name:nob_x_preferred":[
+        "Port St Mary"
+    ],
+    "name:pol_x_preferred":[
+        "Port Saint Mary"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0435\u043d\u0442-\u041c\u044d\u0440\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Port St Mary"
+    ],
+    "name:swe_x_preferred":[
+        "Port Saint Mary"
+    ],
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":"IM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042195,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Port St. Mary",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":1033,
+    "qs_pg:photos_1k":209,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1033,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":890002,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538704,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042195,
+        "gp:id":538704,
+        "qs_pg:id":890002,
+        "wd:id":"Q2605309"
+    },
+    "wof:country":"IM",
+    "wof:created":1497292428,
+    "wof:geomhash":"fd261cc69a6b663faff696c2472715fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125829505,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125829505,
+    "wof:lastmodified":1553816557,
+    "wof:name":"Port St. Mary",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.73858,
+    54.07405,
+    -4.73858,
+    54.07405
+],
+  "geometry": {"coordinates":[-4.73858,54.07405],"type":"Point"}
+}

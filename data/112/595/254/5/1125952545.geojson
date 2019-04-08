@@ -1,0 +1,151 @@
+{
+  "id": 1125952545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.39985,54.23017,-4.39985,54.23017",
+    "geom:latitude":54.23017,
+    "geom:longitude":-4.39985,
+    "gn:gn_country":"IM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1768,
+    "iso:country":"IM",
+    "lbl:latitude":54.23017,
+    "lbl:longitude":-4.39985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Laxey"
+    ],
+    "name:dut_x_preferred":[
+        "Laxey"
+    ],
+    "name:eng_x_preferred":[
+        "Laxey"
+    ],
+    "name:fre_x_preferred":[
+        "Laxey"
+    ],
+    "name:ger_x_preferred":[
+        "Laxey"
+    ],
+    "name:gla_x_preferred":[
+        "Laksaa"
+    ],
+    "name:gle_x_preferred":[
+        "Laksaa"
+    ],
+    "name:glv_x_preferred":[
+        "Laksaa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e7\u05e1\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Laxey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30af\u30b7\u30fc"
+    ],
+    "name:nob_x_preferred":[
+        "Laxey"
+    ],
+    "name:pol_x_preferred":[
+        "Laxey"
+    ],
+    "name:por_x_preferred":[
+        "Laxey"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u0441\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Laxey"
+    ],
+    "name:spa_x_preferred":[
+        "Laxey"
+    ],
+    "name:swe_x_preferred":[
+        "Laxey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043a\u0441\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Laksaa"
+    ],
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":"IM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042217,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Laxey",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":2252,
+    "qs_pg:photos_1k":456,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2252,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":219462,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538679,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042217,
+        "gp:id":538679,
+        "qs_pg:id":219462,
+        "wd:id":"Q1026205"
+    },
+    "wof:country":"IM",
+    "wof:created":1497297512,
+    "wof:geomhash":"d4504c0997d78b6e5e830e525af8fb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125952545,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125952545,
+    "wof:lastmodified":1553816653,
+    "wof:name":"Laxey",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:population":1768,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.39985,
+    54.23017,
+    -4.39985,
+    54.23017
+],
+  "geometry": {"coordinates":[-4.39985,54.23017],"type":"Point"}
+}

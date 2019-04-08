@@ -1,0 +1,111 @@
+{
+  "id": 1125858963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.61667,54.16667,-4.61667,54.16667",
+    "geom:latitude":54.16667,
+    "geom:longitude":-4.61667,
+    "gn:gn_country":"IM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IM",
+    "lbl:latitude":54.16667,
+    "lbl:longitude":-4.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Foxdale"
+    ],
+    "name:dut_x_preferred":[
+        "Foxdale"
+    ],
+    "name:eng_x_preferred":[
+        "Foxdale"
+    ],
+    "name:fre_x_preferred":[
+        "Foxdale"
+    ],
+    "name:gla_x_preferred":[
+        "Forsdal"
+    ],
+    "name:glv_x_preferred":[
+        "Forsdal"
+    ],
+    "name:nob_x_preferred":[
+        "Foxdale"
+    ],
+    "name:swe_x_preferred":[
+        "Foxdale"
+    ],
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":"IM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042231,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Foxdale",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":228739,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538639,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042231,
+        "gp:id":538639,
+        "qs_pg:id":228739,
+        "wd:id":"Q3750799"
+    },
+    "wof:country":"IM",
+    "wof:created":1497293744,
+    "wof:geomhash":"60c8d638413ff2d283880cecfee25c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125858963,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125858963,
+    "wof:lastmodified":1514450891,
+    "wof:name":"Foxdale",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.61667,
+    54.16667,
+    -4.61667,
+    54.16667
+],
+  "geometry": {"coordinates":[-4.61667,54.16667],"type":"Point"}
+}

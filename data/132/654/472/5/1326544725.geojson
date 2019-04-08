@@ -1,0 +1,65 @@
+{
+  "id": 1326544725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38333,54.35,-4.38333,54.35",
+    "geom:latitude":54.35,
+    "geom:longitude":-4.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dog Mills",
+    "gn:country_code":"IM",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042238,
+    "gn:latitude":54.35,
+    "gn:longitude":-4.38333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Dog Mills",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042238
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"f072e9cc6a764b555f5fd0ec68fc2fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1326544725,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1326544725,
+    "wof:lastmodified":1536965675,
+    "wof:name":"Dog Mills",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38333,
+    54.35,
+    -4.38333,
+    54.35
+],
+  "geometry": {"coordinates":[-4.38333,54.35],"type":"Point"}
+}

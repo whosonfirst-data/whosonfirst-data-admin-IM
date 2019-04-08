@@ -1,0 +1,80 @@
+{
+  "id": 1125951425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.527418,54.35553,-4.527418,54.35553",
+    "geom:latitude":54.35553,
+    "geom:longitude":-4.527418,
+    "gn:gn_country":null,
+    "iso:country":"IM",
+    "lbl:latitude":54.35553,
+    "lbl:longitude":-4.527418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Jurby West",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":1307,
+    "qs_pg:photos_1k":265,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1307,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1287902,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":28835718,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28835718,
+        "qs_pg:id":1287902
+    },
+    "wof:country":"IM",
+    "wof:created":1497297472,
+    "wof:geomhash":"4b64c257dd0b01496b7d9c3b1f1e5583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125951425,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125951425,
+    "wof:lastmodified":1509402720,
+    "wof:name":"Jurby West",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.527418,
+    54.35553,
+    -4.527418,
+    54.35553
+],
+  "geometry": {"coordinates":[-4.527418,54.35553],"type":"Point"}
+}

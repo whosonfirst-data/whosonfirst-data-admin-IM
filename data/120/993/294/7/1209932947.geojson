@@ -1,0 +1,64 @@
+{
+  "id": 1209932947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.58662,54.25309,-4.58662,54.25309",
+    "geom:latitude":54.25309,
+    "geom:longitude":-4.58662,
+    "gn:asciiname":"Shoughlaige-e-Caine",
+    "gn:country_code":"IM",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11550884,
+    "gn:latitude":54.25309,
+    "gn:longitude":-4.58662,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Shoughlaige-e-Caine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11550884
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"cc271ba51c7026925a5bbfba4e5da18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1209932947,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1209932947,
+    "wof:lastmodified":1536391915,
+    "wof:name":"Shoughlaige-e-Caine",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.58662,
+    54.25309,
+    -4.58662,
+    54.25309
+],
+  "geometry": {"coordinates":[-4.58662,54.25309],"type":"Point"}
+}

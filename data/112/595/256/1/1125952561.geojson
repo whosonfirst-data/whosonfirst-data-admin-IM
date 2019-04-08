@@ -1,0 +1,154 @@
+{
+  "id": 1125952561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.69099,54.22209,-4.69099,54.22209",
+    "geom:latitude":54.22209,
+    "geom:longitude":-4.69099,
+    "gn:gn_country":"IM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":3781,
+    "iso:country":"IM",
+    "lbl:latitude":54.22209,
+    "lbl:longitude":-4.69099,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Peel"
+    ],
+    "name:bre_x_preferred":[
+        "Purt ny h-Inshey"
+    ],
+    "name:chi_x_preferred":[
+        "\u76ae\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Peel"
+    ],
+    "name:eng_x_preferred":[
+        "Peel"
+    ],
+    "name:fre_x_preferred":[
+        "Peel"
+    ],
+    "name:ger_x_preferred":[
+        "Peel"
+    ],
+    "name:gla_x_preferred":[
+        "Purt ny hInshey"
+    ],
+    "name:gle_x_preferred":[
+        "Purt na hInse"
+    ],
+    "name:glv_x_preferred":[
+        "Purt ny h-Inshey"
+    ],
+    "name:ita_x_preferred":[
+        "Peel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30fc\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "Pylas"
+    ],
+    "name:nob_x_preferred":[
+        "Peel"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u06cc\u0644\u060c \u062c\u0632\u06cc\u0631\u0647 \u0645\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Peel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043b"
+    ],
+    "name:slo_x_preferred":[
+        "Peel"
+    ],
+    "name:spa_x_preferred":[
+        "Peel"
+    ],
+    "name:swe_x_preferred":[
+        "Peel"
+    ],
+    "name:wel_x_preferred":[
+        "Peel"
+    ],
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":"IM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042198,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Peel",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":2995,
+    "qs_pg:photos_1k":607,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2995,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":219463,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538695,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042198,
+        "gp:id":538695,
+        "qs_pg:id":219463,
+        "wd:id":"Q147524"
+    },
+    "wof:country":"IM",
+    "wof:created":1497297512,
+    "wof:geomhash":"4ba2611b30e2889e48da04fbe12d36ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125952561,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125952561,
+    "wof:lastmodified":1553816653,
+    "wof:name":"Peel",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:population":3781,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.69099,
+    54.22209,
+    -4.69099,
+    54.22209
+],
+  "geometry": {"coordinates":[-4.69099,54.22209],"type":"Point"}
+}

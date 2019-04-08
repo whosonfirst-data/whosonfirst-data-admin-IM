@@ -1,0 +1,66 @@
+{
+  "id": 1226273065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.58748,54.28562,-4.58748,54.28562",
+    "geom:latitude":54.28562,
+    "geom:longitude":-4.58748,
+    "gn:admin1_code":"9782185",
+    "gn:asciiname":"Kirkmichael",
+    "gn:cc2":"GB",
+    "gn:country_code":"IM",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3042220,
+    "gn:latitude":54.28562,
+    "gn:longitude":-4.58748,
+    "gn:modification_date":"2015-11-27",
+    "gn:name":"Kirkmichael",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042220
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"7d926d1f291bb364e780277ce2d43a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1226273065,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1226273065,
+    "wof:lastmodified":1536894072,
+    "wof:name":"Kirkmichael",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.58748,
+    54.28562,
+    -4.58748,
+    54.28562
+],
+  "geometry": {"coordinates":[-4.58748,54.28562],"type":"Point"}
+}

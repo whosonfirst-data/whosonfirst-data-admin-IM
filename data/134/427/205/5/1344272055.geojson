@@ -1,0 +1,65 @@
+{
+  "id": 1344272055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.55,54.33333,-4.55,54.33333",
+    "geom:latitude":54.33333,
+    "geom:longitude":-4.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ballakinnag",
+    "gn:country_code":"IM",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042265,
+    "gn:latitude":54.33333,
+    "gn:longitude":-4.55,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Ballakinnag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042265
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"6a4342800f7eb216989b055a6fb33426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1344272055,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1344272055,
+    "wof:lastmodified":1537064456,
+    "wof:name":"Ballakinnag",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.55,
+    54.33333,
+    -4.55,
+    54.33333
+],
+  "geometry": {"coordinates":[-4.55,54.33333],"type":"Point"}
+}

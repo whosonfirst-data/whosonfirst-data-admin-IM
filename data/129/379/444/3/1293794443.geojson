@@ -1,0 +1,64 @@
+{
+  "id": 1293794443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.60894,54.24093,-4.60894,54.24093",
+    "geom:latitude":54.24093,
+    "geom:longitude":-4.60894,
+    "gn:asciiname":"Cronk-y-Voddy",
+    "gn:country_code":"IM",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591723,
+    "gn:latitude":54.24093,
+    "gn:longitude":-4.60894,
+    "gn:modification_date":"2017-06-09",
+    "gn:name":"Cronk-y-Voddy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591723
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"31b3740dd1312eb5e98d99e0ac333d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1293794443,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1293794443,
+    "wof:lastmodified":1536840505,
+    "wof:name":"Cronk-y-Voddy",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.60894,
+    54.24093000000001,
+    -4.60894,
+    54.24093000000001
+],
+  "geometry": {"coordinates":[-4.60894,54.24093000000001],"type":"Point"}
+}

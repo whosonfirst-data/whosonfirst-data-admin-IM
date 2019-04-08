@@ -1,0 +1,69 @@
+{
+  "id": 1309920331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.36947,54.3956,-4.36947,54.3956",
+    "geom:latitude":54.3956,
+    "geom:longitude":-4.36947,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cranstal",
+    "gn:cc2":"GB",
+    "gn:country_code":"IM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3042247,
+    "gn:latitude":54.3956,
+    "gn:longitude":-4.36947,
+    "gn:modification_date":"2009-10-06",
+    "gn:name":"Cranstal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cranstall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042247
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"9e775993d9df23d44c79b9d939c7e98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1309920331,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1309920331,
+    "wof:lastmodified":1537636886,
+    "wof:name":"Cranstal",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.36947,
+    54.3956,
+    -4.36947,
+    54.3956
+],
+  "geometry": {"coordinates":[-4.36947,54.3956],"type":"Point"}
+}

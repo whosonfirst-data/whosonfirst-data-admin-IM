@@ -1,0 +1,80 @@
+{
+  "id": 1125786563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6552845,54.231862,-4.6552845,54.231862",
+    "geom:latitude":54.231862,
+    "geom:longitude":-4.655284,
+    "gn:gn_country":null,
+    "iso:country":"IM",
+    "lbl:latitude":54.231862,
+    "lbl:longitude":-4.655284,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lhergydoo",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":469520,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":28835742,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28835742,
+        "qs_pg:id":469520
+    },
+    "wof:country":"IM",
+    "wof:created":1497290704,
+    "wof:geomhash":"ce6492c6b2213ab864974b610dd83368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125786563,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125786563,
+    "wof:lastmodified":1509392003,
+    "wof:name":"Lhergydoo",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6552845,
+    54.231862,
+    -4.6552845,
+    54.231862
+],
+  "geometry": {"coordinates":[-4.6552845,54.231862],"type":"Point"}
+}

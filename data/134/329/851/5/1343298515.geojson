@@ -1,0 +1,67 @@
+{
+  "id": 1343298515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.41667,54.31667,-4.41667,54.31667",
+    "geom:latitude":54.31667,
+    "geom:longitude":-4.41667,
+    "gn:admin1_code":"9782176",
+    "gn:asciiname":"Lezayre",
+    "gn:cc2":"GB",
+    "gn:country_code":"IM",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3042213,
+    "gn:latitude":54.31667,
+    "gn:longitude":-4.41667,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Lezayre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042213,
+        "wk:page":"Lezayre"
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"ecb7652652ec927e8980b6bf7c53d6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1343298515,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1343298515,
+    "wof:lastmodified":1537564879,
+    "wof:name":"Lezayre",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.41667,
+    54.31667,
+    -4.41667,
+    54.31667
+],
+  "geometry": {"coordinates":[-4.41667,54.31667],"type":"Point"}
+}

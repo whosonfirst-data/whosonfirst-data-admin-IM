@@ -1,0 +1,80 @@
+{
+  "id": 1125771211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.649534,54.09129,-4.649534,54.09129",
+    "geom:latitude":54.09129,
+    "geom:longitude":-4.649534,
+    "gn:gn_country":null,
+    "iso:country":"IM",
+    "lbl:latitude":54.09129,
+    "lbl:longitude":-4.649534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rushen Abbey",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":706,
+    "qs_pg:photos_1k":143,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":706,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225101,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":28835737,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28835737,
+        "qs_pg:id":225101
+    },
+    "wof:country":"IM",
+    "wof:created":1497290073,
+    "wof:geomhash":"fc86cf85e411c79de8784caec8341075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125771211,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125771211,
+    "wof:lastmodified":1509390985,
+    "wof:name":"Rushen Abbey",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.649534,
+    54.09129,
+    -4.649534,
+    54.09129
+],
+  "geometry": {"coordinates":[-4.649534,54.09129],"type":"Point"}
+}

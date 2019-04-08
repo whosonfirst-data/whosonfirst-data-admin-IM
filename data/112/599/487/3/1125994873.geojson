@@ -1,0 +1,144 @@
+{
+  "id": 1125994873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.470266,54.1787,-4.470266,54.1787",
+    "geom:latitude":54.1787,
+    "geom:longitude":-4.470266,
+    "gn:gn_country":null,
+    "iso:country":"IM",
+    "lbl:latitude":54.1787,
+    "lbl:longitude":-4.470266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Onchan"
+    ],
+    "name:baq_x_preferred":[
+        "Onchan"
+    ],
+    "name:bre_x_preferred":[
+        "Kione Droghad"
+    ],
+    "name:cat_x_preferred":[
+        "Onchan"
+    ],
+    "name:dut_x_preferred":[
+        "Onchan"
+    ],
+    "name:eng_x_preferred":[
+        "Onchan"
+    ],
+    "name:fre_x_preferred":[
+        "Onchan"
+    ],
+    "name:ger_x_preferred":[
+        "Onchan"
+    ],
+    "name:glv_x_preferred":[
+        "Kione Droghad"
+    ],
+    "name:hun_x_preferred":[
+        "Onchan"
+    ],
+    "name:ita_x_preferred":[
+        "Onchan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30f3\u30ab\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Onkanas"
+    ],
+    "name:nob_x_preferred":[
+        "Onchan"
+    ],
+    "name:oci_x_preferred":[
+        "Onchan"
+    ],
+    "name:pol_x_preferred":[
+        "Onchan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u043a\u0430\u043d"
+    ],
+    "name:slo_x_preferred":[
+        "Onchan"
+    ],
+    "name:spa_x_preferred":[
+        "Onchan"
+    ],
+    "name:swe_x_preferred":[
+        "Onchan"
+    ],
+    "name:vie_x_preferred":[
+        "Onchan"
+    ],
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Onchan",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":899008,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538691,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":538691,
+        "qs_pg:id":899008,
+        "wd:id":"Q18562"
+    },
+    "wof:country":"IM",
+    "wof:created":1497299258,
+    "wof:geomhash":"93b59592e598d4d50c221973c0050947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125994873,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125994873,
+    "wof:lastmodified":1553816686,
+    "wof:name":"Onchan",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.470266,
+    54.1787,
+    -4.470266,
+    54.1787
+],
+  "geometry": {"coordinates":[-4.470266,54.1787],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125953885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.47298,54.146899,-4.47298,54.146899",
+    "geom:latitude":54.146899,
+    "geom:longitude":-4.47298,
+    "gn:gn_country":null,
+    "iso:country":"IM",
+    "lbl:latitude":54.146899,
+    "lbl:longitude":-4.47298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Douglas Head",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":95,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":95,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":9146,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":23707030,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23707030,
+        "qs_pg:id":9146
+    },
+    "wof:country":"IM",
+    "wof:created":1497297555,
+    "wof:geomhash":"7b726a0eddefd2f57e14ffca2a8d92b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "empire_id":136253055,
+            "locality_id":1125953885,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125953885,
+    "wof:lastmodified":1509402864,
+    "wof:name":"Douglas Head",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.47298,
+    54.146899,
+    -4.47298,
+    54.146899
+],
+  "geometry": {"coordinates":[-4.47298,54.146899],"type":"Point"}
+}

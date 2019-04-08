@@ -1,0 +1,64 @@
+{
+  "id": 1344067341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5752,54.30481,-4.5752,54.30481",
+    "geom:latitude":54.30481,
+    "geom:longitude":-4.5752,
+    "gn:asciiname":"Orrisdale",
+    "gn:country_code":"IM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11550885,
+    "gn:latitude":54.30481,
+    "gn:longitude":-4.5752,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Orrisdale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Isle_of_Man",
+    "iso:country":"IM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11550885
+    },
+    "wof:country":"IM",
+    "wof:geomhash":"a657ead650321824c54696a7ccfdcb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1344067341,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1344067341,
+    "wof:lastmodified":1536864213,
+    "wof:name":"Orrisdale",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5752,
+    54.30481,
+    -4.5752,
+    54.30481
+],
+  "geometry": {"coordinates":[-4.5752,54.30481],"type":"Point"}
+}

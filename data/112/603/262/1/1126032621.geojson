@@ -1,0 +1,80 @@
+{
+  "id": 1126032621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.561085,54.1512925,-4.561085,54.1512925",
+    "geom:latitude":54.151292,
+    "geom:longitude":-4.561085,
+    "gn:gn_country":null,
+    "iso:country":"IM",
+    "lbl:latitude":54.151292,
+    "lbl:longitude":-4.561085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ellenbrook",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":76,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":76,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":962491,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538710,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":538710,
+        "qs_pg:id":962491
+    },
+    "wof:country":"IM",
+    "wof:created":1497301573,
+    "wof:geomhash":"9d6fab2438572ad5c00283cf571028e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1126032621,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1126032621,
+    "wof:lastmodified":1509408015,
+    "wof:name":"Ellenbrook",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.561085,
+    54.1512925,
+    -4.561085,
+    54.1512925
+],
+  "geometry": {"coordinates":[-4.561085,54.1512925],"type":"Point"}
+}

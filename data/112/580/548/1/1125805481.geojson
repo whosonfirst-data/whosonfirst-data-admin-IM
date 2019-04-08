@@ -1,0 +1,150 @@
+{
+  "id": 1125805481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45324,54.17329,-4.45324,54.17329",
+    "geom:latitude":54.17329,
+    "geom:longitude":-4.45324,
+    "gn:gn_country":"IM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IM",
+    "lbl:latitude":54.17329,
+    "lbl:longitude":-4.45324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Onchan"
+    ],
+    "name:baq_x_preferred":[
+        "Onchan"
+    ],
+    "name:bre_x_preferred":[
+        "Kione Droghad"
+    ],
+    "name:cat_x_preferred":[
+        "Onchan"
+    ],
+    "name:dut_x_preferred":[
+        "Onchan"
+    ],
+    "name:eng_x_preferred":[
+        "Onchan"
+    ],
+    "name:fre_x_preferred":[
+        "Onchan"
+    ],
+    "name:ger_x_preferred":[
+        "Onchan"
+    ],
+    "name:glv_x_preferred":[
+        "Kione Droghad"
+    ],
+    "name:hun_x_preferred":[
+        "Onchan"
+    ],
+    "name:ita_x_preferred":[
+        "Onchan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30f3\u30ab\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Onkanas"
+    ],
+    "name:nob_x_preferred":[
+        "Onchan"
+    ],
+    "name:oci_x_preferred":[
+        "Onchan"
+    ],
+    "name:pol_x_preferred":[
+        "Onchan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u043a\u0430\u043d"
+    ],
+    "name:slo_x_preferred":[
+        "Onchan"
+    ],
+    "name:spa_x_preferred":[
+        "Onchan"
+    ],
+    "name:swe_x_preferred":[
+        "Onchan"
+    ],
+    "name:vie_x_preferred":[
+        "Onchan"
+    ],
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":"IM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042201,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Conchan",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":1778,
+    "qs_pg:photos_1k":360,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1778,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082864,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538603,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042201,
+        "gp:id":538603,
+        "qs_pg:id":1082864,
+        "wd:id":"Q18562"
+    },
+    "wof:country":"IM",
+    "wof:created":1497291445,
+    "wof:geomhash":"7d4e8e12dbc701ffc27c041c291a819a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125805481,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125805481,
+    "wof:lastmodified":1553816547,
+    "wof:name":"Conchan",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45324,
+    54.17329,
+    -4.45324,
+    54.17329
+],
+  "geometry": {"coordinates":[-4.45324,54.17329],"type":"Point"}
+}

@@ -1,0 +1,447 @@
+{
+  "id": 1125873575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.63333,54.2,-4.63333,54.2",
+    "geom:latitude":54.2,
+    "geom:longitude":-4.63333,
+    "gn:gn_country":"IM",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IM",
+    "lbl:latitude":54.2,
+    "lbl:longitude":-4.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ace_x_preferred":[
+        "St John's"
+    ],
+    "name:afr_x_preferred":[
+        "St John's"
+    ],
+    "name:arg_x_preferred":[
+        "St John's"
+    ],
+    "name:ast_x_preferred":[
+        "St John's"
+    ],
+    "name:aze_x_preferred":[
+        "St John's"
+    ],
+    "name:baq_x_preferred":[
+        "St John's"
+    ],
+    "name:bar_x_preferred":[
+        "St John's"
+    ],
+    "name:bcl_x_preferred":[
+        "St John's"
+    ],
+    "name:bos_x_preferred":[
+        "St John's"
+    ],
+    "name:bre_x_preferred":[
+        "St John's"
+    ],
+    "name:cat_x_preferred":[
+        "St John's"
+    ],
+    "name:cor_x_preferred":[
+        "St John's"
+    ],
+    "name:cos_x_preferred":[
+        "St John's"
+    ],
+    "name:csb_x_preferred":[
+        "St John's"
+    ],
+    "name:cze_x_preferred":[
+        "St John's"
+    ],
+    "name:dan_x_preferred":[
+        "St John's"
+    ],
+    "name:diq_x_preferred":[
+        "St John's"
+    ],
+    "name:dsb_x_preferred":[
+        "St John's"
+    ],
+    "name:dut_x_preferred":[
+        "St John's"
+    ],
+    "name:eml_x_preferred":[
+        "St John's"
+    ],
+    "name:eng_x_preferred":[
+        "St John's"
+    ],
+    "name:epo_x_preferred":[
+        "St John's"
+    ],
+    "name:est_x_preferred":[
+        "St John's"
+    ],
+    "name:ext_x_preferred":[
+        "St John's"
+    ],
+    "name:fao_x_preferred":[
+        "St John's"
+    ],
+    "name:fin_x_preferred":[
+        "St John's"
+    ],
+    "name:frc_x_preferred":[
+        "St John's"
+    ],
+    "name:fre_x_preferred":[
+        "Saint John's"
+    ],
+    "name:frp_x_preferred":[
+        "St John's"
+    ],
+    "name:frr_x_preferred":[
+        "St John's"
+    ],
+    "name:fry_x_preferred":[
+        "St John's"
+    ],
+    "name:fur_x_preferred":[
+        "St John's"
+    ],
+    "name:gag_x_preferred":[
+        "St John's"
+    ],
+    "name:ger_x_preferred":[
+        "St John's"
+    ],
+    "name:gla_x_preferred":[
+        "Balley Keeil Eoin"
+    ],
+    "name:gle_x_preferred":[
+        "St John's"
+    ],
+    "name:glg_x_preferred":[
+        "St John's"
+    ],
+    "name:glv_x_preferred":[
+        "Balley Keeill Eoin"
+    ],
+    "name:gsw_x_preferred":[
+        "St John's"
+    ],
+    "name:hat_x_preferred":[
+        "St John's"
+    ],
+    "name:hau_x_preferred":[
+        "St John's"
+    ],
+    "name:haw_x_preferred":[
+        "St John's"
+    ],
+    "name:hif_x_preferred":[
+        "St John's"
+    ],
+    "name:hrv_x_preferred":[
+        "St John's"
+    ],
+    "name:hsb_x_preferred":[
+        "St John's"
+    ],
+    "name:hun_x_preferred":[
+        "St John's"
+    ],
+    "name:ibo_x_preferred":[
+        "St John's"
+    ],
+    "name:ice_x_preferred":[
+        "St John's"
+    ],
+    "name:ido_x_preferred":[
+        "St John's"
+    ],
+    "name:ile_x_preferred":[
+        "St John's"
+    ],
+    "name:ilo_x_preferred":[
+        "St John's"
+    ],
+    "name:ina_x_preferred":[
+        "St John's"
+    ],
+    "name:ind_x_preferred":[
+        "St John's"
+    ],
+    "name:ita_x_preferred":[
+        "St John's"
+    ],
+    "name:jav_x_preferred":[
+        "St John's"
+    ],
+    "name:kaa_x_preferred":[
+        "St John's"
+    ],
+    "name:kab_x_preferred":[
+        "St John's"
+    ],
+    "name:kal_x_preferred":[
+        "St John's"
+    ],
+    "name:kon_x_preferred":[
+        "St John's"
+    ],
+    "name:ksh_x_preferred":[
+        "St John's"
+    ],
+    "name:kur_x_preferred":[
+        "St John's"
+    ],
+    "name:lad_x_preferred":[
+        "St John's"
+    ],
+    "name:lat_x_preferred":[
+        "St John's"
+    ],
+    "name:lij_x_preferred":[
+        "St John's"
+    ],
+    "name:lim_x_preferred":[
+        "St John's"
+    ],
+    "name:lmo_x_preferred":[
+        "St John's"
+    ],
+    "name:ltz_x_preferred":[
+        "St John's"
+    ],
+    "name:may_x_preferred":[
+        "St John's"
+    ],
+    "name:min_x_preferred":[
+        "St John's"
+    ],
+    "name:mlg_x_preferred":[
+        "St John's"
+    ],
+    "name:mlt_x_preferred":[
+        "St John's"
+    ],
+    "name:mwl_x_preferred":[
+        "St John's"
+    ],
+    "name:nah_x_preferred":[
+        "St John's"
+    ],
+    "name:nap_x_preferred":[
+        "St John's"
+    ],
+    "name:nau_x_preferred":[
+        "St John's"
+    ],
+    "name:nds_x_preferred":[
+        "St John's"
+    ],
+    "name:nno_x_preferred":[
+        "St John's"
+    ],
+    "name:nob_x_preferred":[
+        "St Johns"
+    ],
+    "name:nov_x_preferred":[
+        "St John's"
+    ],
+    "name:nrm_x_preferred":[
+        "St John's"
+    ],
+    "name:oci_x_preferred":[
+        "St John's"
+    ],
+    "name:pam_x_preferred":[
+        "St John's"
+    ],
+    "name:pap_x_preferred":[
+        "St John's"
+    ],
+    "name:pcd_x_preferred":[
+        "St John's"
+    ],
+    "name:pdc_x_preferred":[
+        "St John's"
+    ],
+    "name:pdt_x_preferred":[
+        "St John's"
+    ],
+    "name:pfl_x_preferred":[
+        "St John's"
+    ],
+    "name:pms_x_preferred":[
+        "St John's"
+    ],
+    "name:pol_x_preferred":[
+        "St John's"
+    ],
+    "name:por_x_preferred":[
+        "St John's"
+    ],
+    "name:que_x_preferred":[
+        "St John's"
+    ],
+    "name:roh_x_preferred":[
+        "St John's"
+    ],
+    "name:rum_x_preferred":[
+        "St John's"
+    ],
+    "name:scn_x_preferred":[
+        "St John's"
+    ],
+    "name:sco_x_preferred":[
+        "St John's"
+    ],
+    "name:slo_x_preferred":[
+        "St John's"
+    ],
+    "name:slv_x_preferred":[
+        "St John's"
+    ],
+    "name:som_x_preferred":[
+        "St John's"
+    ],
+    "name:spa_x_preferred":[
+        "St John's"
+    ],
+    "name:srd_x_preferred":[
+        "St John's"
+    ],
+    "name:stq_x_preferred":[
+        "St John's"
+    ],
+    "name:sun_x_preferred":[
+        "St John's"
+    ],
+    "name:swa_x_preferred":[
+        "St John's"
+    ],
+    "name:swe_x_preferred":[
+        "St John's"
+    ],
+    "name:tet_x_preferred":[
+        "St John's"
+    ],
+    "name:tgl_x_preferred":[
+        "St John's"
+    ],
+    "name:tur_x_preferred":[
+        "St John's"
+    ],
+    "name:unk_x_variant":[
+        "Saint Johns"
+    ],
+    "name:vec_x_preferred":[
+        "St John's"
+    ],
+    "name:vie_x_preferred":[
+        "St John's"
+    ],
+    "name:vls_x_preferred":[
+        "St John's"
+    ],
+    "name:vmf_x_preferred":[
+        "St John's"
+    ],
+    "name:vol_x_preferred":[
+        "St John's"
+    ],
+    "name:war_x_preferred":[
+        "St John's"
+    ],
+    "name:wel_x_preferred":[
+        "St John's"
+    ],
+    "name:wln_x_preferred":[
+        "St John's"
+    ],
+    "name:wol_x_preferred":[
+        "St John's"
+    ],
+    "name:yor_x_preferred":[
+        "St John's"
+    ],
+    "name:zea_x_preferred":[
+        "St John's"
+    ],
+    "name:zul_x_preferred":[
+        "St John's"
+    ],
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":"IM",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3042186,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St. Johns",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":2364,
+    "qs_pg:photos_1k":479,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2364,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894552,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538725,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        85681241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3042186,
+        "gp:id":538725,
+        "qs_pg:id":894552,
+        "wd:id":"Q3107375"
+    },
+    "wof:country":"IM",
+    "wof:created":1497294423,
+    "wof:geomhash":"a32106eb793007c07421b494709f40c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "locality_id":1125873575,
+            "region_id":85681241
+        }
+    ],
+    "wof:id":1125873575,
+    "wof:lastmodified":1514450895,
+    "wof:name":"St. Johns",
+    "wof:parent_id":85681241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.63333,
+    54.2,
+    -4.63333,
+    54.2
+],
+  "geometry": {"coordinates":[-4.63333,54.2],"type":"Point"}
+}

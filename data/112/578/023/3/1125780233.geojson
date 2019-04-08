@@ -1,0 +1,81 @@
+{
+  "id": 1125780233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.395507,54.222063,-4.395507,54.222063",
+    "geom:latitude":54.222063,
+    "geom:longitude":-4.395507,
+    "gn:gn_country":null,
+    "iso:country":"IM",
+    "lbl:latitude":54.222063,
+    "lbl:longitude":-4.395507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IM",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fairy Cottage",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Isle of Man",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":464485,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":538635,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Isle of Man",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632461,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":538635,
+        "qs_pg:id":464485
+    },
+    "wof:country":"IM",
+    "wof:created":1497290434,
+    "wof:geomhash":"ae0f23df2c53141641ad1198c9c412b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632461,
+            "empire_id":136253055,
+            "locality_id":1125780233,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125780233,
+    "wof:lastmodified":1509391513,
+    "wof:name":"Fairy Cottage",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-im",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.395507,
+    54.222063,
+    -4.395507,
+    54.222063
+],
+  "geometry": {"coordinates":[-4.395507,54.222063],"type":"Point"}
+}
