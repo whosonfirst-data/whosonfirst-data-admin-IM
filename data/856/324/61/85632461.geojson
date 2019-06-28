@@ -116,9 +116,6 @@
     "name:cym_x_preferred":[
         "Ynys Manaw"
     ],
-    "name:cze_x_preferred":[
-        "Ostrov Man"
-    ],
     "name:dan_x_preferred":[
         "Isle of Man"
     ],
@@ -715,7 +712,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1537303810,
+    "wof:lastmodified":1561760070,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
