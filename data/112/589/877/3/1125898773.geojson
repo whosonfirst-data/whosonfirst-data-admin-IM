@@ -16,20 +16,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Ballaugh"
-    ],
-    "name:dut_x_preferred":[
-        "Ballaugh"
-    ],
     "name:eng_x_preferred":[
         "Ballaugh"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Ballaugh"
+    ],
+    "name:fra_x_preferred":[
         "Ballaugh"
     ],
     "name:glv_x_preferred":[
         "Balley ny Loghey"
+    ],
+    "name:nld_x_preferred":[
+        "Ballaugh"
     ],
     "name:swe_x_preferred":[
         "Ballaugh"
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1125898773,
-    "wof:lastmodified":1553816611,
+    "wof:lastmodified":1561760071,
     "wof:name":"Ballaugh",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

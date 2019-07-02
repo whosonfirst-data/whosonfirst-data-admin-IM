@@ -19,25 +19,22 @@
     "name:ast_x_preferred":[
         "Onchan"
     ],
-    "name:baq_x_preferred":[
-        "Onchan"
-    ],
     "name:bre_x_preferred":[
         "Kione Droghad"
     ],
     "name:cat_x_preferred":[
         "Onchan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Onchan"
     ],
     "name:eng_x_preferred":[
         "Onchan"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Onchan"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Onchan"
     ],
     "name:glv_x_preferred":[
@@ -55,6 +52,9 @@
     "name:lit_x_preferred":[
         "Onkanas"
     ],
+    "name:nld_x_preferred":[
+        "Onchan"
+    ],
     "name:nob_x_preferred":[
         "Onchan"
     ],
@@ -67,7 +67,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043d\u043a\u0430\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Onchan"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1125994873,
-    "wof:lastmodified":1553816686,
+    "wof:lastmodified":1561760072,
     "wof:name":"Onchan",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

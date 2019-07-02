@@ -22,7 +22,7 @@
     "mz:is_current":-1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ostrov Man"
     ],
     "name:eng_x_preferred":[
@@ -161,7 +161,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1553624531,
+    "wof:lastmodified":1561760070,
     "wof:name":"Isle of Man",
     "wof:parent_id":85632461,
     "wof:placetype":"region",
