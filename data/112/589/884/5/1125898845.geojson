@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Barregarrow"
     ],
+    "name:eus_x_preferred":[
+        "Barregarrow"
+    ],
     "name:fra_x_preferred":[
         "Barregarrow"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125898845,
-    "wof:lastmodified":1561760071,
+    "wof:lastmodified":1563315451,
     "wof:name":"Barregarrow",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

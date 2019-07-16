@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Tromode"
     ],
+    "name:eus_x_preferred":[
+        "Tromode"
+    ],
     "name:fra_x_preferred":[
         "Tromode"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125890207,
-    "wof:lastmodified":1561760071,
+    "wof:lastmodified":1563315451,
     "wof:name":"Tromode",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

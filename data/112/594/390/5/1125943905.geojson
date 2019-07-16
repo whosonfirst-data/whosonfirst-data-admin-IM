@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Ronague"
     ],
+    "name:eus_x_preferred":[
+        "Ronague"
+    ],
     "name:glv_x_preferred":[
         "Ronnag"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125943905,
-    "wof:lastmodified":1561760070,
+    "wof:lastmodified":1563315443,
     "wof:name":"Ronague",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

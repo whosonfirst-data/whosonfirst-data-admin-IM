@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "St John's"
     ],
+    "name:ceb_x_preferred":[
+        "St John's"
+    ],
     "name:ces_x_preferred":[
         "St John's"
     ],
@@ -428,7 +431,7 @@
         }
     ],
     "wof:id":1125873575,
-    "wof:lastmodified":1561760072,
+    "wof:lastmodified":1563315454,
     "wof:name":"St. Johns",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

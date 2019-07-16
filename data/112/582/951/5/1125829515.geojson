@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Sulby"
     ],
+    "name:eus_x_preferred":[
+        "Sulby"
+    ],
     "name:fra_x_preferred":[
         "Sulby"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125829515,
-    "wof:lastmodified":1561760072,
+    "wof:lastmodified":1563315462,
     "wof:name":"Sulby",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

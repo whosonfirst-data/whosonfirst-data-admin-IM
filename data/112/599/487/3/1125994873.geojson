@@ -16,7 +16,52 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aar_x_preferred":[
+        "Onchan"
+    ],
+    "name:ace_x_preferred":[
+        "Onchan"
+    ],
+    "name:afr_x_preferred":[
+        "Onchan"
+    ],
+    "name:aka_x_preferred":[
+        "Onchan"
+    ],
+    "name:aln_x_preferred":[
+        "Onchan"
+    ],
+    "name:ang_x_preferred":[
+        "Onchan"
+    ],
+    "name:arg_x_preferred":[
+        "Onchan"
+    ],
+    "name:arn_x_preferred":[
+        "Onchan"
+    ],
     "name:ast_x_preferred":[
+        "Onchan"
+    ],
+    "name:atj_x_preferred":[
+        "Onchan"
+    ],
+    "name:aym_x_preferred":[
+        "Onchan"
+    ],
+    "name:aze_x_preferred":[
+        "Onchan"
+    ],
+    "name:bam_x_preferred":[
+        "Onchan"
+    ],
+    "name:bar_x_preferred":[
+        "Onchan"
+    ],
+    "name:bis_x_preferred":[
+        "Onchan"
+    ],
+    "name:bjn_x_preferred":[
         "Onchan"
     ],
     "name:bre_x_preferred":[
@@ -25,58 +70,535 @@
     "name:cat_x_preferred":[
         "Onchan"
     ],
+    "name:ceb_x_preferred":[
+        "Onchan"
+    ],
+    "name:ces_x_preferred":[
+        "Onchan"
+    ],
+    "name:cha_x_preferred":[
+        "Onchan"
+    ],
+    "name:cho_x_preferred":[
+        "Onchan"
+    ],
+    "name:chy_x_preferred":[
+        "Onchan"
+    ],
+    "name:cor_x_preferred":[
+        "Onchan"
+    ],
+    "name:cos_x_preferred":[
+        "Onchan"
+    ],
+    "name:csb_x_preferred":[
+        "Onchan"
+    ],
+    "name:cym_x_preferred":[
+        "Onchan"
+    ],
+    "name:dan_x_preferred":[
+        "Onchan"
+    ],
     "name:deu_x_preferred":[
+        "Onchan"
+    ],
+    "name:din_x_preferred":[
+        "Onchan"
+    ],
+    "name:dsb_x_preferred":[
+        "Onchan"
+    ],
+    "name:eml_x_preferred":[
         "Onchan"
     ],
     "name:eng_x_preferred":[
         "Onchan"
     ],
+    "name:epo_x_preferred":[
+        "Onchan"
+    ],
+    "name:est_x_preferred":[
+        "Onchan"
+    ],
     "name:eus_x_preferred":[
+        "Onchan"
+    ],
+    "name:ewe_x_preferred":[
+        "Onchan"
+    ],
+    "name:ext_x_preferred":[
+        "Onchan"
+    ],
+    "name:fao_x_preferred":[
+        "Onchan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06a9\u0646"
+    ],
+    "name:fij_x_preferred":[
+        "Onchan"
+    ],
+    "name:fin_x_preferred":[
         "Onchan"
     ],
     "name:fra_x_preferred":[
         "Onchan"
     ],
+    "name:frc_x_preferred":[
+        "Onchan"
+    ],
+    "name:frp_x_preferred":[
+        "Onchan"
+    ],
+    "name:frr_x_preferred":[
+        "Onchan"
+    ],
+    "name:fry_x_preferred":[
+        "Onchan"
+    ],
+    "name:ful_x_preferred":[
+        "Onchan"
+    ],
+    "name:fur_x_preferred":[
+        "Onchan"
+    ],
+    "name:gag_x_preferred":[
+        "Onchan"
+    ],
+    "name:gcr_x_preferred":[
+        "Onchan"
+    ],
+    "name:gla_x_preferred":[
+        "Onchan"
+    ],
+    "name:gle_x_preferred":[
+        "Onchan"
+    ],
+    "name:glg_x_preferred":[
+        "Onchan"
+    ],
     "name:glv_x_preferred":[
         "Kione Droghad"
     ],
+    "name:gor_x_preferred":[
+        "Onchan"
+    ],
+    "name:grn_x_preferred":[
+        "Onchan"
+    ],
+    "name:gsw_x_preferred":[
+        "Onchan"
+    ],
+    "name:hat_x_preferred":[
+        "Onchan"
+    ],
+    "name:hau_x_preferred":[
+        "Onchan"
+    ],
+    "name:her_x_preferred":[
+        "Onchan"
+    ],
+    "name:hil_x_preferred":[
+        "Onchan"
+    ],
+    "name:hmo_x_preferred":[
+        "Onchan"
+    ],
+    "name:hsb_x_preferred":[
+        "Onchan"
+    ],
     "name:hun_x_preferred":[
+        "Onchan"
+    ],
+    "name:ibo_x_preferred":[
+        "Onchan"
+    ],
+    "name:ido_x_preferred":[
+        "Onchan"
+    ],
+    "name:ile_x_preferred":[
+        "Onchan"
+    ],
+    "name:ina_x_preferred":[
+        "Onchan"
+    ],
+    "name:ind_x_preferred":[
+        "Onchan"
+    ],
+    "name:ipk_x_preferred":[
+        "Onchan"
+    ],
+    "name:isl_x_preferred":[
         "Onchan"
     ],
     "name:ita_x_preferred":[
         "Onchan"
     ],
+    "name:jam_x_preferred":[
+        "Onchan"
+    ],
+    "name:jav_x_preferred":[
+        "Onchan"
+    ],
+    "name:jbo_x_preferred":[
+        "Onchan"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30f3\u30ab\u30f3"
+    ],
+    "name:jut_x_preferred":[
+        "Onchan"
+    ],
+    "name:kaa_x_preferred":[
+        "Onchan"
+    ],
+    "name:kab_x_preferred":[
+        "Onchan"
+    ],
+    "name:kal_x_preferred":[
+        "Onchan"
+    ],
+    "name:kau_x_preferred":[
+        "Onchan"
+    ],
+    "name:kbp_x_preferred":[
+        "Onchan"
+    ],
+    "name:kik_x_preferred":[
+        "Onchan"
+    ],
+    "name:kin_x_preferred":[
+        "Onchan"
+    ],
+    "name:kon_x_preferred":[
+        "Onchan"
+    ],
+    "name:kri_x_preferred":[
+        "Onchan"
+    ],
+    "name:krj_x_preferred":[
+        "Onchan"
+    ],
+    "name:ksh_x_preferred":[
+        "Onchan"
+    ],
+    "name:kur_x_preferred":[
+        "Onchan"
+    ],
+    "name:lad_x_preferred":[
+        "Onchan"
+    ],
+    "name:lat_x_preferred":[
+        "Onchan"
+    ],
+    "name:lav_x_preferred":[
+        "Onchan"
+    ],
+    "name:lfn_x_preferred":[
+        "Onchan"
+    ],
+    "name:lij_x_preferred":[
+        "Onchan"
+    ],
+    "name:lim_x_preferred":[
+        "Onchan"
+    ],
+    "name:lin_x_preferred":[
+        "Onchan"
     ],
     "name:lit_x_preferred":[
         "Onkanas"
     ],
+    "name:liv_x_preferred":[
+        "Onchan"
+    ],
+    "name:lmo_x_preferred":[
+        "Onchan"
+    ],
+    "name:ltg_x_preferred":[
+        "Onchan"
+    ],
+    "name:ltz_x_preferred":[
+        "Onchan"
+    ],
+    "name:mah_x_preferred":[
+        "Onchan"
+    ],
+    "name:min_x_preferred":[
+        "Onchan"
+    ],
+    "name:mlg_x_preferred":[
+        "Onchan"
+    ],
+    "name:mlt_x_preferred":[
+        "Onchan"
+    ],
+    "name:mri_x_preferred":[
+        "Onchan"
+    ],
+    "name:msa_x_preferred":[
+        "Onchan"
+    ],
+    "name:mus_x_preferred":[
+        "Onchan"
+    ],
+    "name:mwl_x_preferred":[
+        "Onchan"
+    ],
+    "name:nah_x_preferred":[
+        "Onchan"
+    ],
+    "name:nap_x_preferred":[
+        "Onchan"
+    ],
+    "name:nau_x_preferred":[
+        "Onchan"
+    ],
+    "name:nav_x_preferred":[
+        "Onchan"
+    ],
+    "name:nds_x_preferred":[
+        "Onchan"
+    ],
     "name:nld_x_preferred":[
+        "Onchan"
+    ],
+    "name:nno_x_preferred":[
         "Onchan"
     ],
     "name:nob_x_preferred":[
         "Onchan"
     ],
+    "name:nov_x_preferred":[
+        "Onchan"
+    ],
+    "name:nrm_x_preferred":[
+        "Onchan"
+    ],
+    "name:nso_x_preferred":[
+        "Onchan"
+    ],
+    "name:nya_x_preferred":[
+        "Onchan"
+    ],
     "name:oci_x_preferred":[
+        "Onchan"
+    ],
+    "name:olo_x_preferred":[
+        "Onchan"
+    ],
+    "name:orm_x_preferred":[
+        "Onchan"
+    ],
+    "name:pag_x_preferred":[
+        "Onchan"
+    ],
+    "name:pam_x_preferred":[
+        "Onchan"
+    ],
+    "name:pap_x_preferred":[
+        "Onchan"
+    ],
+    "name:pcd_x_preferred":[
+        "Onchan"
+    ],
+    "name:pdc_x_preferred":[
+        "Onchan"
+    ],
+    "name:pdt_x_preferred":[
+        "Onchan"
+    ],
+    "name:pfl_x_preferred":[
+        "Onchan"
+    ],
+    "name:pih_x_preferred":[
+        "Onchan"
+    ],
+    "name:pms_x_preferred":[
         "Onchan"
     ],
     "name:pol_x_preferred":[
         "Onchan"
     ],
+    "name:prg_x_preferred":[
+        "Onchan"
+    ],
+    "name:que_x_preferred":[
+        "Onchan"
+    ],
+    "name:rmy_x_preferred":[
+        "Onchan"
+    ],
+    "name:roh_x_preferred":[
+        "Onchan"
+    ],
+    "name:ron_x_preferred":[
+        "Onchan"
+    ],
+    "name:run_x_preferred":[
+        "Onchan"
+    ],
+    "name:rup_x_preferred":[
+        "Onchan"
+    ],
+    "name:ruq_x_preferred":[
+        "Onchan"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u043d\u043a\u0430\u043d"
     ],
+    "name:sag_x_preferred":[
+        "Onchan"
+    ],
+    "name:sat_x_preferred":[
+        "Onchan"
+    ],
+    "name:scn_x_preferred":[
+        "Onchan"
+    ],
+    "name:sco_x_preferred":[
+        "Onchan"
+    ],
+    "name:sgs_x_preferred":[
+        "Onchan"
+    ],
     "name:slk_x_preferred":[
+        "Onchan"
+    ],
+    "name:slv_x_preferred":[
+        "Onchan"
+    ],
+    "name:sma_x_preferred":[
+        "Onchan"
+    ],
+    "name:sme_x_preferred":[
+        "Onchan"
+    ],
+    "name:smo_x_preferred":[
+        "Onchan"
+    ],
+    "name:sna_x_preferred":[
+        "Onchan"
+    ],
+    "name:som_x_preferred":[
+        "Onchan"
+    ],
+    "name:sot_x_preferred":[
         "Onchan"
     ],
     "name:spa_x_preferred":[
         "Onchan"
     ],
+    "name:sqi_x_preferred":[
+        "Onchan"
+    ],
+    "name:srd_x_preferred":[
+        "Onchan"
+    ],
+    "name:srn_x_preferred":[
+        "Onchan"
+    ],
+    "name:ssw_x_preferred":[
+        "Onchan"
+    ],
+    "name:stq_x_preferred":[
+        "Onchan"
+    ],
+    "name:sun_x_preferred":[
+        "Onchan"
+    ],
+    "name:swa_x_preferred":[
+        "Onchan"
+    ],
     "name:swe_x_preferred":[
         "Onchan"
     ],
+    "name:szl_x_preferred":[
+        "Onchan"
+    ],
+    "name:tay_x_preferred":[
+        "Onchan"
+    ],
+    "name:tet_x_preferred":[
+        "Onchan"
+    ],
+    "name:tgl_x_preferred":[
+        "Onchan"
+    ],
+    "name:ton_x_preferred":[
+        "Onchan"
+    ],
+    "name:tpi_x_preferred":[
+        "Onchan"
+    ],
+    "name:tsn_x_preferred":[
+        "Onchan"
+    ],
+    "name:tso_x_preferred":[
+        "Onchan"
+    ],
+    "name:tuk_x_preferred":[
+        "Onchan"
+    ],
+    "name:tum_x_preferred":[
+        "Onchan"
+    ],
+    "name:twi_x_preferred":[
+        "Onchan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0646\u06a9\u0627\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Onchan"
+    ],
+    "name:ven_x_preferred":[
+        "Onchan"
+    ],
+    "name:vep_x_preferred":[
+        "Onchan"
+    ],
     "name:vie_x_preferred":[
+        "Onchan"
+    ],
+    "name:vmf_x_preferred":[
+        "Onchan"
+    ],
+    "name:vol_x_preferred":[
+        "Onchan"
+    ],
+    "name:vot_x_preferred":[
+        "Onchan"
+    ],
+    "name:vro_x_preferred":[
+        "Onchan"
+    ],
+    "name:war_x_preferred":[
+        "Onchan"
+    ],
+    "name:wln_x_preferred":[
+        "Onchan"
+    ],
+    "name:wol_x_preferred":[
+        "Onchan"
+    ],
+    "name:xho_x_preferred":[
+        "Onchan"
+    ],
+    "name:yor_x_preferred":[
+        "Onchan"
+    ],
+    "name:zea_x_preferred":[
+        "Onchan"
+    ],
+    "name:zha_x_preferred":[
+        "Onchan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6602\u80af"
+    ],
+    "name:zul_x_preferred":[
         "Onchan"
     ],
     "qs_pg:aaroncc":"IM",
@@ -125,7 +647,7 @@
         }
     ],
     "wof:id":1125994873,
-    "wof:lastmodified":1561760072,
+    "wof:lastmodified":1563315456,
     "wof:name":"Onchan",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",
