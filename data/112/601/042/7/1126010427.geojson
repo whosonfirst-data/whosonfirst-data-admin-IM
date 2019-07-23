@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Andreas"
     ],
+    "name:eus_x_preferred":[
+        "Andreas"
+    ],
     "name:fra_x_preferred":[
         "Andreas"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126010427,
-    "wof:lastmodified":1561760072,
+    "wof:lastmodified":1563315461,
     "wof:name":"Andreas",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

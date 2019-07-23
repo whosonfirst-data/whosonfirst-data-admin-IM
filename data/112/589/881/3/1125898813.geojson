@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Glen Vine"
     ],
+    "name:eus_x_preferred":[
+        "Glen Vine"
+    ],
     "name:fra_x_preferred":[
         "Glen Vine"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1125898813,
-    "wof:lastmodified":1561760071,
+    "wof:lastmodified":1563315449,
     "wof:name":"Glen Vine",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

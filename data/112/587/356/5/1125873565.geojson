@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0441\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ballasalla"
+    ],
     "name:deu_x_preferred":[
         "Ballasalla"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:eus_x_preferred":[
         "Ballasalla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0633\u0627\u0644\u0627"
     ],
     "name:fra_x_preferred":[
         "Ballasalla"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125873565,
-    "wof:lastmodified":1561760072,
+    "wof:lastmodified":1563315454,
     "wof:name":"Ballasalla",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

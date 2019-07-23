@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Port Soderick"
     ],
+    "name:eus_x_preferred":[
+        "Port Soderick"
+    ],
     "name:fra_x_preferred":[
         "Port Soderick"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125772269,
-    "wof:lastmodified":1561760073,
+    "wof:lastmodified":1563315465,
     "wof:name":"Port Soderick",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:nld_x_preferred":[
         "Derbyhaven"
     ],
+    "name:swe_x_preferred":[
+        "Santon"
+    ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":"IM",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125991293,
-    "wof:lastmodified":1561760072,
+    "wof:lastmodified":1563315455,
     "wof:name":"Derbyhaven",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

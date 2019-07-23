@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Dalby"
     ],
+    "name:eus_x_preferred":[
+        "Dalby"
+    ],
     "name:fra_x_preferred":[
         "Dalby"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125837885,
-    "wof:lastmodified":1561760073,
+    "wof:lastmodified":1563315465,
     "wof:name":"Dalby",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

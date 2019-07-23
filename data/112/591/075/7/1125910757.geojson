@@ -21,6 +21,12 @@
     "name:eng_x_preferred":[
         "Union Mills"
     ],
+    "name:eus_x_preferred":[
+        "Union Mills"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0646\u06cc\u0648\u0646 \u0645\u06cc\u0644\u0632"
+    ],
     "name:fra_x_preferred":[
         "Union Mills"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125910757,
-    "wof:lastmodified":1561760072,
+    "wof:lastmodified":1563315459,
     "wof:name":"Union Mills",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",
