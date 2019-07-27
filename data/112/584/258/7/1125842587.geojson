@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u0646\u063a\u0645\u0647"
+    ],
+    "name:ind_x_preferred":[
+        "Dhoon"
+    ],
+    "name:new_x_preferred":[
+        "\u0927\u0941\u0928"
+    ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Dhoon",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1125842587,
-    "wof:lastmodified":1509395373,
+    "wof:lastmodified":1564218514,
     "wof:name":"Dhoon",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

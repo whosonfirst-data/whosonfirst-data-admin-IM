@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Rushen Abbey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0431\u0430\u0442\u0441\u0442\u0432\u043e \u0420\u0430\u0448\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Rushen Abbey"
+    ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Rushen Abbey",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1125771211,
-    "wof:lastmodified":1509390985,
+    "wof:lastmodified":1564218514,
     "wof:name":"Rushen Abbey",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",
