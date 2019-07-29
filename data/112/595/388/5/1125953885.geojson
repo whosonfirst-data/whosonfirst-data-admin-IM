@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Douglas Head"
+    ],
+    "name:glv_x_preferred":[
+        "Kione Ghoolish"
+    ],
+    "name:pol_x_preferred":[
+        "Douglas Head"
+    ],
+    "name:swe_x_preferred":[
+        "Douglas Head"
+    ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Douglas Head",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1125953885,
-    "wof:lastmodified":1509402864,
+    "wof:lastmodified":1564218506,
     "wof:name":"Douglas Head",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
