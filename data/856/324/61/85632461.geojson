@@ -14,6 +14,9 @@
     "itu:country_code":[
         "44"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IM"
+    ],
     "lbl:latitude":54.255204,
     "lbl:longitude":-4.49708,
     "mps:latitude":54.255204,
@@ -771,7 +774,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1563315439,
+    "wof:lastmodified":1565717119,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
