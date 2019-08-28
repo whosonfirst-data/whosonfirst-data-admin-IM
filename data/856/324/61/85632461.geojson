@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":54.255204,
     "lbl:longitude":-4.49708,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":54.255204,
     "mps:longitude":-4.49708,
     "mz:hierarchy_label":1,
@@ -712,7 +714,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"44",
     "statoids:ds":"GBM",
@@ -751,7 +753,7 @@
         "mzb:id":"isle-of-man",
         "ne:adm0_a3":"IMN",
         "nyt:id":"73346616604022308771",
-        "qs:id":94400,
+        "qs_pg:id":94400,
         "uncrt:id":"GBM",
         "wd:id":"Q9676"
     },
@@ -774,7 +776,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1565717119,
+    "wof:lastmodified":1566680710,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
