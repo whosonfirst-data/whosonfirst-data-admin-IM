@@ -302,6 +302,9 @@
     },
     "wof:country":"IM",
     "wof:created":1497289999,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"ffafeaecdea8fbbc5f87d3b052753811",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":1125769089,
-    "wof:lastmodified":1566680720,
+    "wof:lastmodified":1582358651,
     "wof:name":"Douglas",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

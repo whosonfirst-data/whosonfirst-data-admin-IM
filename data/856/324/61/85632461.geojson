@@ -759,6 +759,10 @@
     },
     "wof:country":"IM",
     "wof:country_alpha3":"IMN",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"a717787bbd15a0e8c5d6d60a273f303a",
     "wof:hierarchy":[
         {
@@ -776,7 +780,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1566680710,
+    "wof:lastmodified":1583239949,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
