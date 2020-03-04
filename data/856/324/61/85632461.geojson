@@ -712,7 +712,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -781,7 +780,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1582358651,
+    "wof:lastmodified":1583239949,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
