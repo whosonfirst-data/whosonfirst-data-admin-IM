@@ -741,9 +741,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Isle_of_Man",
-        "digitalenvoy:country_code":[
-            833
-        ],
+        "digitalenvoy:country_code":833,
         "fb:id":"en.isle_of_man",
         "fifa:id":"GBM",
         "fips:code":"IM",
@@ -783,7 +781,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1583529147,
+    "wof:lastmodified":1583797353,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
