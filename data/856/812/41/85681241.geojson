@@ -9,7 +9,6 @@
     "geom:bbox":"-4.83059648304,54.0404320336,-4.31191972621,54.4190127618",
     "geom:latitude":54.228344,
     "geom:longitude":-4.534896,
-    "gn:id":"",
     "iso:country":"IM",
     "label:eng_x_preferred_longname":[
         "Isle of Man"
@@ -474,7 +473,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1566680711,
+    "wof:lastmodified":1603260099,
     "wof:name":"Isle of Man",
     "wof:parent_id":85632461,
     "wof:placetype":"region",
