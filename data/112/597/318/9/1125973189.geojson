@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-4.4932415,54.154807,-4.4932415,54.154807",
+    "geom:bbox":"-4.493241,54.154807,-4.493241,54.154807",
     "geom:latitude":54.154807,
     "geom:longitude":-4.493241,
     "gn:country":null,
@@ -144,6 +144,9 @@
         "\u10d3\u10e3\u10d2\u10da\u10d0\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\ub354\uae00\ub77c\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\ub354\uae00\ub7ec\uc2a4"
     ],
     "name:lat_x_preferred":[
@@ -296,7 +299,7 @@
     },
     "wof:country":"IM",
     "wof:created":1497298250,
-    "wof:geomhash":"a320451cfadd30a578661a51e774bb36",
+    "wof:geomhash":"36ff6ab94328957cc7238c0c4d6d0410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":1125973189,
-    "wof:lastmodified":1566680718,
+    "wof:lastmodified":1636502854,
     "wof:name":"Douglas",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",
@@ -316,10 +319,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.4932415,
+    -4.493241,
     54.154807,
-    -4.4932415,
+    -4.493241,
     54.154807
 ],
-  "geometry": {"coordinates":[-4.4932415,54.154807],"type":"Point"}
+  "geometry": {"coordinates":[-4.493241,54.154807],"type":"Point"}
 }

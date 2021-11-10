@@ -149,6 +149,9 @@
         "\u10d3\u10e3\u10d2\u10da\u10d0\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\ub354\uae00\ub77c\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\ub354\uae00\ub7ec\uc2a4"
     ],
     "name:lat_x_preferred":[
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":1125769089,
-    "wof:lastmodified":1607390879,
+    "wof:lastmodified":1636502854,
     "wof:name":"Douglas",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",
