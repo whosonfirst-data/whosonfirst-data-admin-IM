@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Glen Vine"
     ],
+    "name:gle_x_preferred":[
+        "Glion Vian"
+    ],
     "name:glv_x_preferred":[
         "Glion Vian"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125898813,
-    "wof:lastmodified":1566680715,
+    "wof:lastmodified":1690932071,
     "wof:name":"Glen Vine",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

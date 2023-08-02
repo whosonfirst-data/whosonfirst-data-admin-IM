@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Braaid"
     ],
+    "name:gle_x_preferred":[
+        "Yn Braaid"
+    ],
     "name:glv_x_preferred":[
         "Yn Braaid"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:por_x_preferred":[
         "Braaid"
+    ],
+    "name:zho_x_preferred":[
+        "\u7562\u62c9\u5fb7"
     ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":null,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125935727,
-    "wof:lastmodified":1566680712,
+    "wof:lastmodified":1690932070,
     "wof:name":"Braaid",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

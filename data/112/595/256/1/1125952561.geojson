@@ -22,13 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Peel"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u06cc\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u043b"
     ],
     "name:bre_x_preferred":[
         "Purt ny h-Inshey"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0439\u043b"
+    ],
     "name:ceb_x_preferred":[
+        "Peel"
+    ],
+    "name:ces_x_preferred":[
         "Peel"
     ],
     "name:cym_x_preferred":[
@@ -50,6 +62,9 @@
         "\u067e\u06cc\u0644"
     ],
     "name:fra_x_preferred":[
+        "Peel"
+    ],
+    "name:frr_x_preferred":[
         "Peel"
     ],
     "name:gla_x_preferred":[
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":1125952561,
-    "wof:lastmodified":1566680713,
+    "wof:lastmodified":1690932071,
     "wof:name":"Peel",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

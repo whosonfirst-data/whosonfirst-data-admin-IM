@@ -43,6 +43,9 @@
     "name:ang_x_preferred":[
         "Man\u012beg"
     ],
+    "name:anp_x_preferred":[
+        "\u0906\u0907\u0932 \u0911\u092b \u092e\u0948\u0928"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0646"
     ],
@@ -242,11 +245,17 @@
     "name:glv_x_preferred":[
         "Mannin"
     ],
+    "name:gsw_x_preferred":[
+        "Isle of Man"
+    ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0acd\u0ab2\u0ac7 \u0a93\u0aab \u0aae\u0ac5\u0aa8"
     ],
     "name:guj_x_variant":[
         "\u0a87\u0ab8\u0acd\u0ab2\u0ac7 \u0a93\u0aab \u0aae\u0ac7\u0aa8"
+    ],
+    "name:hak_x_preferred":[
+        "Man T\u00f3"
     ],
     "name:hau_x_preferred":[
         "Isle of Man"
@@ -314,6 +323,9 @@
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u5cf6"
     ],
+    "name:kaa_x_preferred":[
+        "Men ataw\u0131"
+    ],
     "name:kan_x_preferred":[
         "\u0c90\u0cb2\u0ccd \u0c86\u0cab\u0ccd \u0cae\u0ccd\u0caf\u0cbe\u0ca8\u0ccd"
     ],
@@ -340,6 +352,9 @@
     "name:kor_x_preferred":[
         "\ub9e8\uc12c",
         "\ub9e8 \uc12c"
+    ],
+    "name:ksh_x_preferred":[
+        "Isle of Man"
     ],
     "name:lat_x_preferred":[
         "Monapia"
@@ -379,6 +394,9 @@
     "name:lrc_x_preferred":[
         "\u0645\u06cc\u0646\u0627\u06a4\u06d5 \u0645\u0623\u0646"
     ],
+    "name:ltz_x_preferred":[
+        "Insel Man"
+    ],
     "name:lzh_x_preferred":[
         "\u66fc\u5cf6"
     ],
@@ -393,6 +411,9 @@
     ],
     "name:mar_x_variant":[
         "\u0907\u0938\u094d\u0932\u0947 \u0911\u092b \u092e\u0945\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u044d\u043d \u0446\u0451\u043d\u0433\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043d (\u043e\u0441\u0442\u0440\u043e\u0432)",
@@ -457,6 +478,9 @@
     "name:oci_x_preferred":[
         "Illa de Man"
     ],
+    "name:olo_x_preferred":[
+        "Manninsuari"
+    ],
     "name:ori_x_preferred":[
         "\u0b06\u0b07\u0b32\u0b4d \u0b05\u0b2b\u0b4d \u0b2e\u0b48\u0b28\u0b4d"
     ],
@@ -494,6 +518,9 @@
     "name:ron_x_variant":[
         "Insulele Man"
     ],
+    "name:rue_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u0435\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d"
     ],
@@ -509,6 +536,9 @@
     ],
     "name:sco_x_variant":[
         "Isle o Mann"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u102f\u107c\u103a\u1019\u1085\u107c\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0db1\u0dd4\u0dc2\u0dca\u200d\u0dba \u0daf\u0dd6\u0db4\u0dad"
@@ -586,6 +616,9 @@
     "name:ton_x_preferred":[
         "Motu Mani"
     ],
+    "name:tuk_x_preferred":[
+        "Man Adasy"
+    ],
     "name:tur_x_preferred":[
         "Man Adas\u0131"
     ],
@@ -599,11 +632,17 @@
     "name:urd_x_preferred":[
         "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Men oroli"
+    ],
     "name:vec_x_preferred":[
         "\u00ccxo\u0142a de Man"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Man"
+    ],
+    "name:vls_x_preferred":[
+        "Eyland Man"
     ],
     "name:war_x_preferred":[
         "Isla han Man"
@@ -613,6 +652,9 @@
     ],
     "name:xal_x_preferred":[
         "\u041c\u044d\u043d\u0438\u043d \u0410\u0440\u043b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10dd\u10d9\u10d8 \u10db\u10d4\u10dc\u10d8"
     ],
     "name:yor_x_preferred":[
         "Er\u00e9k\u00f9\u1e63\u00f9 il\u1eb9\u0300 Man"
@@ -856,7 +898,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1636502854,
+    "wof:lastmodified":1690932070,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

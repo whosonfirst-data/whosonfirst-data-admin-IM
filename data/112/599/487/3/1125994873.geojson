@@ -71,6 +71,9 @@
     "name:bre_x_preferred":[
         "Kione Droghad"
     ],
+    "name:bul_x_preferred":[
+        "\u041e\u043d\u043a\u044a\u043d"
+    ],
     "name:cat_x_preferred":[
         "Onchan"
     ],
@@ -179,6 +182,9 @@
     "name:gle_x_preferred":[
         "Onchan"
     ],
+    "name:gle_x_variant":[
+        "Kione Droghad"
+    ],
     "name:glg_x_preferred":[
         "Onchan"
     ],
@@ -199,6 +205,9 @@
     ],
     "name:hau_x_preferred":[
         "Onchan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e0\u05db\u05d0\u05df"
     ],
     "name:her_x_preferred":[
         "Onchan"
@@ -548,6 +557,9 @@
     "name:tum_x_preferred":[
         "Onchan"
     ],
+    "name:tur_x_preferred":[
+        "Onchan"
+    ],
     "name:twi_x_preferred":[
         "Onchan"
     ],
@@ -651,7 +663,7 @@
         }
     ],
     "wof:id":1125994873,
-    "wof:lastmodified":1566680717,
+    "wof:lastmodified":1690932074,
     "wof:name":"Onchan",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

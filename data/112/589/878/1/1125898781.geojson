@@ -23,11 +23,17 @@
     "name:ceb_x_preferred":[
         "The Niarbyl"
     ],
+    "name:deu_x_preferred":[
+        "Niarbyl"
+    ],
     "name:eng_x_preferred":[
         "Niarbyl"
     ],
     "name:eus_x_preferred":[
         "Niarbyl"
+    ],
+    "name:gle_x_preferred":[
+        "Yn Arbyl"
     ],
     "name:glv_x_preferred":[
         "Yn Arbyl"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1125898781,
-    "wof:lastmodified":1566680716,
+    "wof:lastmodified":1690932072,
     "wof:name":"Niarbyl",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

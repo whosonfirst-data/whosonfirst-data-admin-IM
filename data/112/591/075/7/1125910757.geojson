@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Union Mills"
     ],
+    "name:gle_x_preferred":[
+        "Mwyllin Doo Aah"
+    ],
     "name:glv_x_preferred":[
         "Mwyllin Doo Aah"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:slk_x_preferred":[
         "Union Mills"
+    ],
+    "name:zho_x_preferred":[
+        "\u806f\u5408\u7c73\u723e\u65af"
     ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":"IM",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125910757,
-    "wof:lastmodified":1566680718,
+    "wof:lastmodified":1690932074,
     "wof:name":"Union Mills",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

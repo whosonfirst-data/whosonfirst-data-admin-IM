@@ -34,6 +34,9 @@
     "name:gla_x_preferred":[
         "Forsdal"
     ],
+    "name:gle_x_preferred":[
+        "Forsdal"
+    ],
     "name:glv_x_preferred":[
         "Forsdal"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125858963,
-    "wof:lastmodified":1566680720,
+    "wof:lastmodified":1690932076,
     "wof:name":"Foxdale",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",
