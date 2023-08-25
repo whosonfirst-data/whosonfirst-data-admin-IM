@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Strang"
     ],
+    "name:glv_x_preferred":[
+        "Yn Strang"
+    ],
     "name:nld_x_preferred":[
         "Strang"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1126019651,
-    "wof:lastmodified":1566680719,
+    "wof:lastmodified":1690932075,
     "wof:name":"Strang",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

@@ -133,6 +133,9 @@
     "name:gle_x_preferred":[
         "St John's"
     ],
+    "name:gle_x_variant":[
+        "Balley Keeill Eoin"
+    ],
     "name:glg_x_preferred":[
         "St John's"
     ],
@@ -382,6 +385,9 @@
     "name:zea_x_preferred":[
         "St John's"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u838a\u65af"
+    ],
     "name:zul_x_preferred":[
         "St John's"
     ],
@@ -435,7 +441,7 @@
         }
     ],
     "wof:id":1125873575,
-    "wof:lastmodified":1566680717,
+    "wof:lastmodified":1690932073,
     "wof:name":"St. Johns",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

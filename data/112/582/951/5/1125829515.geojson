@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Sulby"
+    ],
     "name:eng_x_preferred":[
         "Sulby"
     ],
@@ -29,6 +32,9 @@
         "Sulby"
     ],
     "name:fra_x_preferred":[
+        "Sulby"
+    ],
+    "name:gle_x_preferred":[
         "Sulby"
     ],
     "name:glv_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125829515,
-    "wof:lastmodified":1566680719,
+    "wof:lastmodified":1690932075,
     "wof:name":"Sulby",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

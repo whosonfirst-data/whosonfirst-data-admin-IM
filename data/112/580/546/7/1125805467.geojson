@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Colby"
     ],
+    "name:gle_x_preferred":[
+        "Colby"
+    ],
     "name:glv_x_preferred":[
         "Colby"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125805467,
-    "wof:lastmodified":1566680716,
+    "wof:lastmodified":1690932072,
     "wof:name":"Colby",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

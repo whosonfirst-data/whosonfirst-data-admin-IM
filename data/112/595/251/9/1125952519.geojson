@@ -31,7 +31,13 @@
     "name:fra_x_preferred":[
         "Cregneash"
     ],
+    "name:frr_x_preferred":[
+        "Cregneash"
+    ],
     "name:gla_x_preferred":[
+        "Creneash"
+    ],
+    "name:gle_x_preferred":[
         "Creneash"
     ],
     "name:glv_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0435\u0433\u043d\u0435\u0448"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u96f7\u5c3c\u4e9e\u751a"
     ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":"IM",
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125952519,
-    "wof:lastmodified":1566680713,
+    "wof:lastmodified":1690932070,
     "wof:name":"Cregneish",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

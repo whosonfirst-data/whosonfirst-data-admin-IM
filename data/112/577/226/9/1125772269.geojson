@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Port Soderick"
     ],
+    "name:gle_x_preferred":[
+        "Purt Soderick"
+    ],
     "name:glv_x_preferred":[
         "Purt Soderick"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125772269,
-    "wof:lastmodified":1566680721,
+    "wof:lastmodified":1690932076,
     "wof:name":"Port Soderick",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

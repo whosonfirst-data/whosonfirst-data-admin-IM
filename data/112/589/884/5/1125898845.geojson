@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Barregarrow"
     ],
+    "name:gle_x_preferred":[
+        "Bayr Garroo"
+    ],
     "name:glv_x_preferred":[
         "Bayr Garroo"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125898845,
-    "wof:lastmodified":1566680716,
+    "wof:lastmodified":1690932072,
     "wof:name":"Barregarrow",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

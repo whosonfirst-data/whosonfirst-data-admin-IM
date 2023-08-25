@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Ballasalla"
     ],
+    "name:gle_x_preferred":[
+        "Balley Sallagh"
+    ],
     "name:glv_x_preferred":[
         "Balley Sallagh"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125873565,
-    "wof:lastmodified":1566680717,
+    "wof:lastmodified":1690932073,
     "wof:name":"Ballasalla",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

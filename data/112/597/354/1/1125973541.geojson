@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Port Erin"
     ],
+    "name:frr_x_preferred":[
+        "Port Erin"
+    ],
     "name:gla_x_preferred":[
         "Purt \u00c7hiarn"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Port Erin"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u7433\u6e2f"
     ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":"IM",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1125973541,
-    "wof:lastmodified":1566680718,
+    "wof:lastmodified":1690932074,
     "wof:name":"Port Erin",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

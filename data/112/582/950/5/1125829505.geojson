@@ -37,7 +37,13 @@
     "name:fra_x_preferred":[
         "Port Saint Mary"
     ],
+    "name:frr_x_preferred":[
+        "Port St. Mary"
+    ],
     "name:gla_x_preferred":[
+        "Purt le Moirrey"
+    ],
+    "name:gle_x_preferred":[
         "Purt le Moirrey"
     ],
     "name:glv_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Port Saint Mary"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u9e97\u6e2f"
     ],
     "qs_pg:aaroncc":"IM",
     "qs_pg:gn_country":"IM",
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125829505,
-    "wof:lastmodified":1566680719,
+    "wof:lastmodified":1690932075,
     "wof:name":"Port St. Mary",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

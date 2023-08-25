@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Laxey"
+    ],
+    "name:cat_x_preferred":[
+        "Laxey"
+    ],
     "name:ceb_x_preferred":[
         "Laxey"
     ],
@@ -35,6 +41,9 @@
         "Laxey"
     ],
     "name:fra_x_preferred":[
+        "Laxey"
+    ],
+    "name:frr_x_preferred":[
         "Laxey"
     ],
     "name:gla_x_preferred":[
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":1125952545,
-    "wof:lastmodified":1566680713,
+    "wof:lastmodified":1690932071,
     "wof:name":"Laxey",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",

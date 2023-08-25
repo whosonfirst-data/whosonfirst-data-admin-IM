@@ -29,6 +29,9 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u063a\u0644\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u062c\u0644\u0627\u0633"
+    ],
     "name:ast_x_preferred":[
         "Douglas"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0443\u0433\u043b\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0443\u0433\u043b\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u0997\u09b2\u09be\u09b8"
@@ -101,6 +107,9 @@
     "name:fra_x_preferred":[
         "Douglas"
     ],
+    "name:frr_x_preferred":[
+        "Douglas"
+    ],
     "name:fry_x_preferred":[
         "Douglas"
     ],
@@ -134,6 +143,9 @@
     "name:ind_x_preferred":[
         "Douglas"
     ],
+    "name:isl_x_preferred":[
+        "Douglas"
+    ],
     "name:ita_x_preferred":[
         "Douglas"
     ],
@@ -161,6 +173,9 @@
     "name:lrc_x_preferred":[
         "\u062f\u0627\u06af\u0644\u0627\u0633"
     ],
+    "name:ltz_x_preferred":[
+        "Douglas"
+    ],
     "name:mar_x_preferred":[
         "\u0921\u0917\u094d\u0932\u0938"
     ],
@@ -169,6 +184,9 @@
     ],
     "name:mri_x_preferred":[
         "Douglas"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u0648\u06af\u0644\u0627\u0633"
     ],
     "name:nan_x_preferred":[
         "Douglas"
@@ -239,6 +257,9 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e31\u0e01\u0e25\u0e32\u0e2a"
     ],
+    "name:tuk_x_preferred":[
+        "Douglas"
+    ],
     "name:tur_x_preferred":[
         "Douglas"
     ],
@@ -257,8 +278,14 @@
     "name:war_x_preferred":[
         "Douglas"
     ],
+    "name:wuu_x_preferred":[
+        "\u9053\u683c\u62c9\u65af"
+    ],
     "name:xmf_x_preferred":[
         "\u10d3\u10e3\u10d2\u10da\u10d0\u10e1\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u5fb7\u683c\u62c9\u65af"
     ],
     "name:zho_x_preferred":[
         "\u9053\u683c\u62c9\u65af"
@@ -309,7 +336,7 @@
         }
     ],
     "wof:id":1125973189,
-    "wof:lastmodified":1636502854,
+    "wof:lastmodified":1690932074,
     "wof:name":"Douglas",
     "wof:parent_id":85681241,
     "wof:placetype":"locality",
