@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080359,
-    "geom:area_square_m":580884158.052159,
+    "geom:area_square_m":580884158.052152,
     "geom:bbox":"-4.830889,54.041168,-4.307611,54.416195",
     "geom:latitude":54.225532,
     "geom:longitude":-4.539121,
@@ -13,6 +13,9 @@
     "iso:country":"IM",
     "itu:country_code":[
         "44"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "crown depdendency"
     ],
     "label:eng_x_preferred_shortcode":[
         "IM"
@@ -828,7 +831,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"44",
     "statoids:ds":"GBM",
     "statoids:fifa":"GBM",
@@ -881,7 +885,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"7d16a0b57a7e2b58d44a2c15dae8bb70",
+    "wof:geomhash":"c6116a5a6810451e6ffb1e0f55d35c41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -898,12 +902,12 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1690932070,
+    "wof:lastmodified":1694639669,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":75049,
-    "wof:population_rank":8,
+    "wof:population":84584,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-im",
     "wof:shortcode":"IM",
     "wof:superseded_by":[],
