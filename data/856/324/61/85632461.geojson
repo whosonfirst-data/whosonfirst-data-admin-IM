@@ -866,6 +866,7 @@
         "gn:id":3042225,
         "gp:id":23424847,
         "hasc:id":"IM",
+        "iso:code":"IM",
         "m49:code":"833",
         "marc:id":"uik",
         "mzb:id":"isle-of-man",
@@ -876,6 +877,7 @@
         "uncrt:id":"GBM",
         "wd:id":"Q9676"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85681241
     ],
@@ -902,7 +904,7 @@
         "eng",
         "glv"
     ],
-    "wof:lastmodified":1694639669,
+    "wof:lastmodified":1695881329,
     "wof:name":"Isle of Man",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
